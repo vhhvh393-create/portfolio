@@ -1,0 +1,6 @@
+{
+  "name": "بيشوى أشرف - Video Editor & AI Designer",
+  "description": "معرض أعمال بيشوى أشرف - محرر فيديو ومصمم جرافيك بالذكاء الاصطناعي. تحرير الفيديوهات، تصميم الصور المصغرة (Thumbnails)، البودكاست والريلز الاحترافية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
